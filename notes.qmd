@@ -4,11 +4,13 @@ title: "Notes"
 
 Notes and supplementary materials from my recitation classes are collected here.
 
-## Linear Algebra I 
+## Linear Algebra I
+Office Hour: Wednesday 11:00-12:00 (and by appointment), R638, General Building III.\
+
 |  Date 	| Topic 	| Notes 	| Last update 	|
-|:-----:	|:-----:	|:-----:	|:-----------:	|
-| 09/08 (No class)|Vector spaces and fields|  [LAI-09/08](notes/LAI0908.pdf)| 2026/09/07	|
-| 09/15 	|           |       	|             	|
+|:-----:	|:-----	|:-----	|:-----------	|
+| 09/08 (No class)|Vector spaces and fields|  [09/08](notes/LAI0908.pdf)| 09/10	|
+| 09/15 	|Vector subspaces, direct sums,<br>direct products and quotient spaces|[HW1](notes/LAIHW1PS.pdf)|  09/10  |
 | 09/22 	|       	|       	|             	|
 | 09/29 	|Quiz 1     |       	|             	|
 | 10/06 	|       	|       	|             	|
