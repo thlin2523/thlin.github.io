@@ -2,28 +2,28 @@
 title: "Notes"
 ---
 
-Notes and supplementary materials from my recitation classes are collected here.
+Partial solutions to the homework problems and notes for the recitation classes are posted here.                                                                               
 
 ## Linear Algebra I
 Office hour: Wed. 11:00-12:00 (and by appointment), R638, General Building III.\
 
-|  Date 	| Topic 	| Notes 	| Last updated 	|
-|:-----:	|:-----	|:-----:	|:-----------:	|
-| 09/08 (No class)|Vector spaces and fields|  [09/08](notes/LAI0908.pdf)| 09/11	|
-| 09/15 	|Vector subspaces, direct sums<br>and quotient spaces|[HW1](notes/LAIHW1PS.pdf)|  09/10  |
-| 09/22 	|       	|       	|             	|
-| 09/29* 	|           |       	|             	|
-| 10/06 	|       	|       	|             	|
-| 10/13* 	|           |       	|             	|
-| 10/20 	|       	|       	|             	|
-| 10/27 	|       	|       	|             	|
-| 11/03 	|       	|       	|             	|
-| 11/10 	|       	|       	|             	|
-| 11/17 	|       	|       	|             	|
-| 11/24* 	|           |       	|             	|
-| 12/01 	|       	|       	|             	|
-| 12/08* 	|           |       	|             	|
-| 12/15 	|       	|       	|             	|
-| 12/22 	|       	|       	|             	|
+|  Date 	| Topic 	| Notes 	|
+|:-----:	|:-----	|:-----:	|
+| 09/08 (No class)|Vector spaces and fields|  [09/08](notes/LAI0908.pdf)|
+| 09/15 	|Vector subspaces, direct sums and quotient spaces|[Sol1](notes/LAIHW1PS.pdf)<br>[09/15](notes/LAI0915.pdf)|
+| 09/22 	|       	|       	| 
+| 09/29* 	|           |       	|             	
+| 10/06 	|       	|       	|             	
+| 10/13* 	|           |       	|             	
+| 10/20 	|       	|       	|             	
+| 10/27 	|       	|       	|             	
+| 11/03 	|       	|       	|             	
+| 11/10 	|       	|       	|             	
+| 11/17 	|       	|       	|             	
+| 11/24* 	|           |       	|             	
+| 12/01 	|       	|       	|             	
+| 12/08* 	|           |       	|             	
+| 12/15 	|       	|       	|             	
+| 12/22 	|       	|       	|             	
 
 If you find any errors in the notes, please let me know by sending me an email at <thlin0520@gmail.com>
